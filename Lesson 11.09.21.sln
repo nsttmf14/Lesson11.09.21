@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labs2", "Lesson 11.09.21\labs2.csproj", "{B174EB95-02C8-40EE-8F42-701EF089D688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hometask(pdf)", "hometask(pdf)\hometask(pdf).csproj", "{6025FFD1-3171-47AB-A9C8-AD60A79D0464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B174EB95-02C8-40EE-8F42-701EF089D688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B174EB95-02C8-40EE-8F42-701EF089D688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B174EB95-02C8-40EE-8F42-701EF089D688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B174EB95-02C8-40EE-8F42-701EF089D688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6025FFD1-3171-47AB-A9C8-AD60A79D0464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6025FFD1-3171-47AB-A9C8-AD60A79D0464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6025FFD1-3171-47AB-A9C8-AD60A79D0464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6025FFD1-3171-47AB-A9C8-AD60A79D0464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8BC57D-891C-4D78-8429-ECF04CF416B5}
+	EndGlobalSection
+EndGlobal
